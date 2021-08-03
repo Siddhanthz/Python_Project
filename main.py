@@ -9,6 +9,8 @@ class Computer:
 
 Comp1=Computer("i5","16gb")
 Comp2=Computer("i3","8gb")
+Comp3=Computer("i7","16gb")
 
 Comp1.config()
 Comp2.config()
+Comp3.config()
